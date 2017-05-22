@@ -4,5 +4,10 @@
   "description": "Money hey hey hey!",
   "main": "index.js",
   "author": "wayne <wayne.5540@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "node-telegram-bot-api": "^0.27.1"
+  }
 }
