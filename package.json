@@ -1,0 +1,8 @@
+{
+  "name": "btc_bot",
+  "version": "1.0.0",
+  "description": "Money hey hey hey!",
+  "main": "index.js",
+  "author": "wayne <wayne.5540@gmail.com>",
+  "license": "MIT"
+}
